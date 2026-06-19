@@ -1,0 +1,57 @@
+CARTLY E-COMMERCE PLATFORM — ACCOUNT POLICY
+============================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+This policy governs the creation, use, and termination of accounts on the Cartly platform. By creating an account, users agree to abide by Cartly's terms of service.
+
+2. ACCOUNT CREATION
+--------------------
+To create a Cartly account:
+- Users must be at least 18 years old.
+- A valid mobile number (Indian) or email address is required.
+- Each individual may maintain only one active personal account.
+- Business accounts are available under the Cartly for Business program.
+
+3. ACCOUNT VERIFICATION
+------------------------
+New accounts require OTP-based verification via mobile number or email. Verified accounts unlock full purchase capabilities, including saved addresses, wish lists, order history, and Cartly Wallet functionality.
+
+4. ACCOUNT SECURITY
+--------------------
+Users are responsible for:
+- Maintaining the confidentiality of their login credentials.
+- Immediately reporting unauthorized account access to support.
+- Not sharing account credentials with third parties.
+
+Cartly will never ask for your password via email or phone. Enable two-factor authentication (2FA) in Account Settings > Security.
+
+5. ACCOUNT SUSPENSION
+----------------------
+Cartly reserves the right to suspend or terminate accounts in cases of:
+- Fraudulent activity or misuse of return/refund policies.
+- Placing orders with intent to not pay (repeated COD rejections).
+- Fake reviews, seller manipulation, or policy violations.
+- Verified reports of identity fraud.
+
+Suspended accounts receive an email notification with the reason and an appeal process.
+
+6. ACCOUNT DELETION
+--------------------
+Users may request account deletion by:
+1. Going to Account Settings > Privacy > Delete Account.
+2. Confirming identity via OTP.
+3. Completing the 30-day deactivation period (during which the account can be restored).
+
+Post-deletion, personal data is purged in compliance with the Cartly Privacy Policy (within 90 days).
+
+7. INACTIVE ACCOUNTS
+---------------------
+Accounts with no activity for 24 consecutive months may be deactivated. An email warning is sent 30 days prior. Cartly Wallet balances from deactivated accounts are held for 12 months and can be claimed by reactivating the account.
+
+8. CONTACT
+----------
+Email: accounts@cartly.in
+Phone: 1800-CARTLY-6 (Mon–Sat, 9 AM – 6 PM IST)

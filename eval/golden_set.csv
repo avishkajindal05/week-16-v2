@@ -1,0 +1,41 @@
+question,ground_truth,expected_source
+How long does a refund take for credit card payments?,Refunds to credit or debit cards are processed within 5–7 business days from the date of approval.,refund_policy.txt
+What is the refund timeline for UPI payments?,UPI and Net Banking refunds are processed within 3–5 business days.,refund_policy.txt
+How do I initiate a refund on Cartly?,Log in to your account and go to My Orders. Select the relevant order click Request Refund choose a reason and upload photos if needed then submit.,refund_policy.txt
+Are digital goods eligible for a refund?,Digital goods and software licenses are not eligible for refunds once activated.,refund_policy.txt
+How long is the standard return window?,The standard return window for eligible products is 10 days from the date of delivery.,return_policy.txt
+What is the return window for electronics?,Electronics have a 7-day strict return window.,return_policy.txt
+What is the return window for apparel?,Apparel and footwear have a return window of 15 days.,return_policy.txt
+Are books returnable on Cartly?,Books are non-returnable.,return_policy.txt
+What conditions must be met for a return to be accepted?,"The product must be unused and in its original packaging, with all tags and accessories intact and the original invoice available.",return_policy.txt
+Does Cartly offer free return pickup?,"Yes, Cartly provides free reverse pickup in metro and Tier-2 cities.",return_policy.txt
+What payment methods does Cartly accept?,"Cartly accepts Credit Cards, Debit Cards, Net Banking, UPI, Cartly Wallet, EMI, BNPL through Simpl or ZestMoney, and Cash on Delivery.",payment_policy.txt
+Is there a COD fee?,Cash on Delivery has an additional ₹29 handling fee.,payment_policy.txt
+What is the maximum order value for COD?,COD is available for orders up to ₹10000.,payment_policy.txt
+How long does a failed payment refund take?,A failed payment is automatically refunded to the source within 5–7 business days.,payment_policy.txt
+What is Cartly's standard shipping charge for orders below ₹499?,A flat ₹49 shipping fee applies to orders below ₹499.,shipping_policy.txt
+When is shipping free?,Standard shipping is free for orders above ₹499.,shipping_policy.txt
+How many days does delivery take to metro zones?,Delivery to metro zones takes 2–3 business days for standard shipping.,shipping_policy.txt
+What happens if delivery fails three times?,After three failed delivery attempts the package is returned to the warehouse and a ₹49 re-delivery fee applies.,shipping_policy.txt
+Does Cartly offer international shipping?,Cartly currently does not offer international shipping and only delivers within India.,shipping_policy.txt
+Within how long can I cancel an order without a fee?,Orders can be cancelled free of charge within 1 hour of placement.,cancellation_policy.txt
+Can I cancel an order that has already shipped?,Orders in Shipped status cannot be directly cancelled; the customer must wait for delivery and then initiate a return.,cancellation_policy.txt
+How is a prepaid order refunded after cancellation?,Prepaid orders are refunded to the original payment method within 3–5 business days.,cancellation_policy.txt
+What happens when a seller cancels my order?,A full refund is processed automatically within 24 hours and an email and SMS notification is sent.,cancellation_policy.txt
+How long is a Cartly Gift Card valid?,Cartly Gift Cards are valid for 12 months from the date of purchase.,giftcard_policy.txt
+Can a Gift Card balance be withdrawn as cash?,Gift cards are non-transferable and cannot be exchanged for cash.,giftcard_policy.txt
+What happens to a gift card if an order is returned?,The refund is credited to a new gift card of equivalent value rather than back to cash.,giftcard_policy.txt
+How do I track my Cartly order?,Go to My Orders in the app or website and select Track Order; a tracking link is also sent via SMS and email after dispatch.,tracking_policy.txt
+What does Out for Delivery mean?,Out for Delivery means the item is with the delivery agent for same-day delivery.,tracking_policy.txt
+What should I do if my tracking has not updated for 48 hours?,Raise a complaint via My Orders or contact the logistics partner with the AWB number and escalate to Cartly support if not resolved in 72 hours.,tracking_policy.txt
+What is the exchange timeline from request to delivery?,The total exchange turnaround is 7–10 business days including reverse pickup QC and dispatch.,exchange_policy.txt
+Can I exchange an item more than once?,Each product can be exchanged only once.,exchange_policy.txt
+What happens if the exchange item costs less than the original?,If the exchange item costs less the difference is credited to the Cartly Wallet.,exchange_policy.txt
+What is the maximum wallet balance allowed?,The maximum Cartly Wallet balance is ₹20000.,wallet_policy.txt
+Do cashback credits in the wallet expire?,"Yes, cashback credits expire 90 days from the date of credit.",wallet_policy.txt
+Can I withdraw my Cartly Wallet balance to a bank account?,The Cartly Wallet does not support bank withdrawals.,wallet_policy.txt
+How much does Cartly Plus cost annually?,The Cartly Plus annual plan costs ₹999 per year.,subscription_policy.txt
+Is there a free trial for Cartly Plus?,Yes there is a 30-day free trial; credit card details are required but not charged until the trial ends.,subscription_policy.txt
+When does a Cartly Plus cancellation take effect?,Cancellation takes effect at the end of the current billing period and benefits remain active until then.,subscription_policy.txt
+Can I use more than one coupon on an order?,Only one coupon code can be applied per order unless the offer explicitly allows otherwise.,promo_policy.txt
+What is Cartly's live chat response time?,The first response on live chat is under 2 minutes during peak hours and live chat is available 24/7.,support_policy.txt

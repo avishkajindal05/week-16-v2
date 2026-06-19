@@ -1,0 +1,50 @@
+CARTLY E-COMMERCE PLATFORM — PROMOTIONS & COUPONS POLICY
+=========================================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly regularly offers promotional discounts, coupon codes, and cashback offers to customers. This policy explains how promotions work, eligibility conditions, and applicable restrictions.
+
+2. TYPES OF PROMOTIONS
+-----------------------
+- Coupon Codes: Alphanumeric codes applied at checkout for a flat or percentage discount.
+- Cashback Offers: Cashback credited to Cartly Wallet after order delivery.
+- Bank Offers: Discounts for specific credit/debit cards in partnership with banks.
+- Flash Sale Prices: Time-limited discounts on select products.
+- Referral Bonuses: Wallet credits for referring new users.
+- First-Order Discounts: Special pricing for first-time buyers on the platform.
+
+3. APPLYING A COUPON
+---------------------
+At checkout, enter the coupon code in the "Apply Coupon / Gift Card" field and click "Apply." Only one coupon code can be applied per order unless explicitly stated otherwise.
+
+4. COUPON CONDITIONS
+---------------------
+Coupons are subject to:
+- Minimum order value (displayed in the coupon terms).
+- Category or product restrictions.
+- One-time use per customer unless stated as "unlimited use."
+- Validity window (start and end dates).
+
+5. STACKING
+-----------
+Coupon codes generally cannot be stacked with other discount coupons. However, bank offers and cashback promotions may be combinable with coupon codes. Check the specific offer terms.
+
+6. NON-TRANSFERABLE
+-------------------
+Promotional codes are non-transferable and may only be used by the account they were issued to. Misuse or resale of coupon codes is grounds for account suspension.
+
+7. EXPIRED/INVALID CODES
+-------------------------
+Cartly is not responsible for expired codes or codes not applied correctly. If a valid code fails to apply, contact support before placing the order.
+
+8. FLASH SALE POLICIES
+-----------------------
+Flash sale products are sold at discounted prices for a limited time window. These orders cannot be cancelled after 30 minutes. Returns follow standard return policy, but exchanges may be restricted.
+
+9. CONTACT
+----------
+Email: promotions@cartly.in
+Phone: 1800-CARTLY-11 (Mon–Sat, 9 AM – 6 PM IST)

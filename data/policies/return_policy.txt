@@ -1,0 +1,63 @@
+CARTLY E-COMMERCE PLATFORM — RETURN POLICY
+==========================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly's return policy is designed to give customers confidence when shopping. We accept returns for most product categories within a defined return window, subject to the conditions outlined below.
+
+2. RETURN WINDOW
+----------------
+The standard return window for all eligible products is 10 days from the date of delivery. Certain premium categories have an extended window:
+- Electronics: 7 days (strict).
+- Apparel and footwear: 15 days.
+- Furniture and large appliances: 5 days.
+- Books: Non-returnable.
+
+3. CONDITIONS FOR RETURN
+--------------------------
+Returns are accepted only when:
+- The product is unused and in its original packaging.
+- All tags, labels, and accessories are intact.
+- The original invoice is available.
+- The return request is raised within the specified return window.
+
+4. NON-RETURNABLE CATEGORIES
+------------------------------
+The following categories are not eligible for return:
+- Perishable goods (food items, fresh produce).
+- Medicines and health supplements.
+- Digital downloads, software, and gift cards.
+- Customized or personalized products.
+- Hazardous materials or flammable items.
+
+5. RETURN PROCESS
+-----------------
+To initiate a return:
+1. Go to "My Orders" in your Cartly account.
+2. Select the item you wish to return.
+3. Click "Return Item" and select the reason.
+4. Schedule a pickup. Cartly's logistics partner will collect the item from your address within 2–3 business days.
+5. Once the item is received and quality-checked, the refund will be processed within 5–7 business days.
+
+6. SELLER-SPECIFIC POLICIES
+-----------------------------
+Some third-party sellers on Cartly may have stricter return policies. These are displayed clearly on the product listing page under "Seller's Return Policy." In case of conflict, the stricter policy applies.
+
+7. REVERSE LOGISTICS
+---------------------
+Cartly provides free reverse pickup for all eligible returns within metro and Tier-2 cities. Customers in remote zones may be required to self-ship the item to the designated warehouse. Return shipping cost reimbursement (up to ₹100) will be credited to the Cartly Wallet.
+
+8. QUALITY CHECK
+----------------
+All returned items undergo a quality check at the warehouse. If the item fails QC (e.g., signs of use, damage by customer, missing accessories), the return will be rejected and the item will be sent back to the customer. A QC failure notification is sent via email.
+
+9. EXCHANGE OPTION
+-------------------
+Instead of a return-and-refund, customers may opt for a direct exchange. Refer to the Exchange Policy for details.
+
+10. CONTACT
+-----------
+Email: returns@cartly.in
+Phone: 1800-CARTLY-3 (Mon–Sat, 9 AM – 6 PM IST)

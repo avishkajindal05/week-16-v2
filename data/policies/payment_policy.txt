@@ -1,0 +1,57 @@
+CARTLY E-COMMERCE PLATFORM — PAYMENT POLICY
+============================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly accepts a wide range of payment methods to ensure a seamless checkout experience. This policy outlines supported payment modes, security practices, and payment failure handling.
+
+2. ACCEPTED PAYMENT METHODS
+-----------------------------
+Cartly supports the following payment options:
+- Credit Cards: Visa, MasterCard, American Express, RuPay.
+- Debit Cards: All major Indian bank debit cards.
+- Net Banking: 50+ Indian banks supported.
+- UPI: Google Pay, PhonePe, Paytm, BHIM UPI, Amazon Pay UPI.
+- Cartly Wallet: Pre-loaded wallet for instant checkout.
+- EMI: No-cost and low-cost EMI available on select cards and products.
+- Buy Now Pay Later (BNPL): Available through Simpl, ZestMoney, and LazyPay.
+- Cash on Delivery (COD): Available for eligible orders up to ₹10,000.
+
+3. PAYMENT SECURITY
+-------------------
+All transactions on Cartly are secured with:
+- 256-bit SSL encryption.
+- PCI-DSS compliant payment processing.
+- Two-factor authentication (OTP) for card transactions via 3D Secure.
+- Tokenization of saved card details — Cartly never stores raw card numbers.
+
+4. CASH ON DELIVERY (COD)
+--------------------------
+COD is available for orders up to ₹10,000 with an additional ₹29 handling fee. COD is not available for:
+- Digital products and subscriptions.
+- Pre-order items.
+- Orders shipping to remote zones.
+Customers with a history of COD rejections may have this option restricted.
+
+5. EMI OPTIONS
+--------------
+No-cost EMI is available for purchases above ₹3,000 on select credit cards. EMI tenure options: 3, 6, 9, 12, and 24 months. The product page will display EMI breakdowns. Bank processing fees may apply and are displayed transparently at checkout.
+
+6. PAYMENT FAILURE HANDLING
+-----------------------------
+If a payment fails:
+- The amount is automatically refunded to the source within 5–7 business days.
+- You will receive an email and SMS confirmation of the failed transaction.
+- Retry the payment from "My Orders → Failed Payments."
+If the amount is debited but the order is not confirmed, it will auto-refund within 48 hours. You may contact support if it exceeds this period.
+
+7. INVOICE
+----------
+A GST-compliant digital invoice is generated for every completed order and available in "My Orders → Invoice."
+
+8. CONTACT
+----------
+Email: payments@cartly.in
+Phone: 1800-CARTLY-4 (Mon–Sat, 9 AM – 6 PM IST)

@@ -1,0 +1,56 @@
+CARTLY E-COMMERCE PLATFORM — WALLET POLICY
+===========================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+The Cartly Wallet is a built-in digital wallet that allows customers to store money for faster, one-tap checkouts. It also serves as the destination for select refunds and cashback credits.
+
+2. LOADING THE WALLET
+----------------------
+Customers can add funds to the Cartly Wallet using:
+- Credit/Debit Cards
+- UPI
+- Net Banking
+Minimum top-up: ₹100. Maximum single transaction top-up: ₹10,000.
+
+3. WALLET LIMITS
+-----------------
+- Maximum wallet balance: ₹20,000 (per RBI prepaid instrument guidelines).
+- Monthly loading limit: ₹50,000.
+- KYC-verified accounts are eligible for higher limits.
+
+4. USING THE WALLET AT CHECKOUT
+---------------------------------
+At checkout, select "Cartly Wallet" as the payment method. The wallet balance will be deducted from the order total. If the order amount exceeds the wallet balance, the shortfall can be paid via any other supported method (split payment).
+
+5. CASHBACK CREDITS
+--------------------
+Promotional cashback from offers, coupons, or referral bonuses is credited directly to the Cartly Wallet. Cashback credits:
+- Cannot be withdrawn to a bank account.
+- Are valid for 90 days from the date of credit.
+- Can be used for any purchase on Cartly.
+
+6. WALLET REFUNDS
+-----------------
+Refunds credited to the wallet are instant upon approval. Wallet refunds are the fastest refund mode on Cartly.
+
+7. WITHDRAWALS
+--------------
+The Cartly Wallet does not support direct bank withdrawals. Funds loaded from cards or UPI cannot be transferred back to the bank. Only cashback credits are wallet-only; self-loaded funds are also non-withdrawable per Cartly's prepaid instrument agreement.
+
+8. EXPIRY
+---------
+- Self-loaded wallet balance: No expiry.
+- Cashback/promotional credits: Expire in 90 days.
+- Refund credits: No expiry.
+
+9. SECURITY
+-----------
+Wallet transactions are protected by OTP-based authentication for transfers above ₹1,000. Report unauthorized transactions immediately to prevent loss.
+
+10. CONTACT
+-----------
+Email: wallet@cartly.in
+Phone: 1800-CARTLY-10 (Mon–Sat, 9 AM – 6 PM IST)

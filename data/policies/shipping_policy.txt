@@ -1,0 +1,67 @@
+CARTLY E-COMMERCE PLATFORM — SHIPPING POLICY
+=============================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly offers shipping across India through a network of trusted logistics partners. This policy details our shipping zones, timelines, charges, and special handling procedures.
+
+2. SHIPPING ZONES
+-----------------
+Cartly ships to over 27,000 pin codes across India. Orders are classified into:
+- Metro Zones: Delhi, Mumbai, Bangalore, Chennai, Hyderabad, Kolkata, Pune, Ahmedabad.
+- Tier-2 Cities: Jaipur, Lucknow, Surat, Indore, Nagpur, Bhopal, Vadodara, etc.
+- Remote Zones: Northeastern states, Jammu & Kashmir, Ladakh, island territories.
+
+3. SHIPPING TIMELINES
+---------------------
+Standard delivery timelines by zone:
+- Metro Zones: 2–3 business days.
+- Tier-2 Cities: 3–5 business days.
+- Remote Zones: 7–12 business days.
+
+Express delivery (available for select pin codes):
+- Metro Zones: Next-day or same-day delivery (order before 2 PM).
+- Tier-2 Cities: 1–2 business days.
+
+4. SHIPPING CHARGES
+-------------------
+- Orders above ₹499: Free standard shipping.
+- Orders below ₹499: Flat ₹49 shipping fee.
+- Express delivery: Additional ₹79–₹149 depending on zone.
+- Oversized/heavy items (>10 kg): Applicable freight surcharge displayed at checkout.
+
+5. ORDER PROCESSING
+-------------------
+Orders are processed Monday through Saturday, excluding national public holidays. Orders placed on Sunday or public holidays are processed the next business day. Processing takes 12–24 hours before handoff to the logistics partner.
+
+6. SHIPPING PARTNERS
+---------------------
+Cartly uses the following logistics partners:
+- Blue Dart, Delhivery, Ecom Express, DTDC, India Post (for remote areas).
+
+The partner assigned to your order is displayed in the tracking section post-dispatch.
+
+7. INTERNATIONAL SHIPPING
+--------------------------
+Cartly currently does not offer international shipping. All deliveries are restricted to addresses within India.
+
+8. ADDRESS ACCURACY
+-------------------
+Customers are responsible for providing accurate and complete delivery addresses at the time of placing the order. Cartly is not liable for non-delivery due to incorrect address information. Address change requests after dispatch are subject to logistics partner capabilities and may incur additional charges.
+
+9. FAILED DELIVERIES
+---------------------
+If delivery fails due to:
+- Customer unavailability (3 attempts will be made),
+- Incorrect address,
+- Refusal to accept,
+
+the package will be returned to the warehouse and a re-delivery fee of ₹49 will apply for re-shipping.
+
+10. CONTACT
+-----------
+For shipping-related queries:
+Email: shipping@cartly.in
+Phone: 1800-CARTLY-2 (Mon–Sat, 9 AM – 6 PM IST)

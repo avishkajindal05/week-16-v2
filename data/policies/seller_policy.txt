@@ -1,0 +1,54 @@
+CARTLY E-COMMERCE PLATFORM — SELLER POLICY
+===========================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly operates as a marketplace connecting third-party sellers with customers. This policy outlines the obligations, rights, and standards sellers must adhere to when operating on the Cartly platform.
+
+2. SELLER REGISTRATION
+-----------------------
+To become a Cartly seller:
+- Valid GSTIN is mandatory.
+- Bank account details for payment settlement are required.
+- PAN card verification is required for sellers above ₹20 lakh annual turnover.
+- Product category approval may be required for regulated categories.
+
+3. PRODUCT LISTINGS
+--------------------
+Sellers are responsible for:
+- Accurate product descriptions, images, and specifications.
+- Honest pricing (MRP must match the physical product label).
+- Maintaining up-to-date inventory to avoid overselling.
+- Compliance with BIS, FSSAI, and other regulatory standards for applicable categories.
+
+4. ORDER FULFILMENT
+--------------------
+Sellers must:
+- Accept or reject orders within 12 hours of placement.
+- Dispatch accepted orders within 24–48 hours.
+- Pack items securely to prevent transit damage.
+- Upload tracking details to the Cartly Seller Portal immediately after dispatch.
+
+5. SELLER PERFORMANCE STANDARDS
+---------------------------------
+Cartly monitors:
+- Order Defect Rate (ODR): Must remain below 1%.
+- Late Dispatch Rate: Must remain below 5%.
+- Cancellation Rate: Must remain below 3%.
+
+Sellers failing to meet performance standards face listing suspension or account deactivation.
+
+6. PAYMENT SETTLEMENT
+----------------------
+Seller payments are settled on a weekly basis (every Thursday) for orders delivered and past the return window. Settlement may be withheld for orders under dispute.
+
+7. PROHIBITED ITEMS
+--------------------
+Sellers may not list: counterfeit goods, weapons, narcotics, live animals, or items prohibited under Indian law. Violations result in immediate account termination and legal action.
+
+8. CONTACT
+----------
+Email: sellers@cartly.in
+Seller Support Portal: sellers.cartly.in

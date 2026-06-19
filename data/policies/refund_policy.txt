@@ -1,0 +1,64 @@
+CARTLY E-COMMERCE PLATFORM — REFUND POLICY
+==========================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly is committed to ensuring customer satisfaction. This Refund Policy outlines the conditions under which customers may request a refund for purchases made on the Cartly platform.
+
+2. ELIGIBILITY FOR REFUNDS
+---------------------------
+Customers are eligible for a full refund under the following conditions:
+- The item received is significantly different from the description on the product page.
+- The item arrives damaged, defective, or non-functional.
+- The order was not delivered within the guaranteed delivery window and no updated tracking is available.
+- A duplicate charge was processed for the same order.
+
+3. REFUND TIMELINE
+------------------
+Once a refund request is approved, the following timelines apply:
+- Credit/Debit Card payments: Refunds are processed within 5–7 business days from approval.
+- UPI and Net Banking: Refunds are processed within 3–5 business days.
+- Cartly Wallet credits: Refunds are instant upon approval.
+- EMI orders: Refunds follow the issuing bank's schedule, typically 7–10 business days.
+
+4. NON-REFUNDABLE ITEMS
+------------------------
+The following categories are not eligible for refunds unless the item is defective:
+- Perishable goods (food, flowers, plants).
+- Personalized or custom-made items.
+- Digital goods and software licenses once activated.
+- Hygiene-sensitive products (undergarments, swimwear) once opened.
+
+5. HOW TO INITIATE A REFUND
+----------------------------
+To initiate a refund:
+1. Log in to your Cartly account.
+2. Navigate to "My Orders."
+3. Select the relevant order and click "Request Refund."
+4. Choose the reason from the dropdown menu and upload supporting photos if applicable.
+5. Submit the request. You will receive a confirmation email within 24 hours.
+
+6. PARTIAL REFUNDS
+------------------
+Partial refunds may be issued in cases where:
+- Only part of the order was affected (e.g., one item in a multi-item order was damaged).
+- A discount coupon was used and the refund amount reflects the actual amount paid.
+
+7. REFUND STATUS TRACKING
+--------------------------
+Customers can track refund status in real time by visiting:
+Account → My Orders → Refund Status
+
+Support escalations can be raised if the refund is not received within the stated timeline.
+
+8. CHARGEBACKS
+--------------
+Cartly strongly advises customers to first raise a refund request directly on the platform before initiating a chargeback with their bank. Unauthorized chargebacks may result in temporary account suspension pending investigation.
+
+9. CONTACT
+----------
+For refund-related queries, reach our support team at:
+Email: refunds@cartly.in
+Phone: 1800-CARTLY-1 (Mon–Sat, 9 AM – 6 PM IST)

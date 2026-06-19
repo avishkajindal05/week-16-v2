@@ -1,0 +1,45 @@
+CARTLY E-COMMERCE PLATFORM — ORDER TRACKING POLICY
+====================================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly provides real-time order tracking for all shipments. This policy outlines how tracking works, what statuses mean, and how to handle tracking discrepancies.
+
+2. TRACKING AVAILABILITY
+------------------------
+Order tracking becomes available within 24–48 hours of dispatch. An SMS and email with the tracking link and logistics partner's AWB (Air Waybill) number are sent to the registered contact details once the order is shipped.
+
+3. HOW TO TRACK
+---------------
+- Via Cartly App/Website: My Orders → Select Order → Track Order.
+- Via SMS: Click the tracking link in the dispatch SMS.
+- Via Logistics Partner Website: Enter AWB number on the carrier's tracking portal.
+
+4. ORDER STATUS DEFINITIONS
+-----------------------------
+- Order Placed: Order received and payment confirmed.
+- Processing: Seller is preparing the item.
+- Packed: Item packed and ready for handover to logistics.
+- Shipped: Item handed to logistics partner. Tracking goes live.
+- Out for Delivery: Item with the delivery agent for same-day delivery.
+- Delivered: Item successfully delivered.
+- Delivery Attempted: Delivery agent visited but was unable to deliver.
+- Returned to Origin (RTO): Item is being sent back to warehouse.
+
+5. TRACKING NOT UPDATING
+-------------------------
+If tracking has not updated for more than 48 hours after the last status, customers may:
+1. Raise a complaint via My Orders → Raise Issue.
+2. Contact the logistics partner directly using the AWB number.
+3. Escalate to Cartly support if no resolution within 72 hours.
+
+6. ESTIMATED DELIVERY DATE
+---------------------------
+The estimated delivery date shown at checkout and in tracking is an approximation. Delays may occur due to weather, logistics disruptions, or high-volume seasons. Cartly is not liable for delays caused by force majeure events.
+
+7. CONTACT
+----------
+Email: tracking@cartly.in
+Phone: 1800-CARTLY-8 (Mon–Sat, 9 AM – 6 PM IST)

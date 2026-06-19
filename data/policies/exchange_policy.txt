@@ -1,0 +1,54 @@
+CARTLY E-COMMERCE PLATFORM — EXCHANGE POLICY
+=============================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly offers a product exchange option as an alternative to returns and refunds. Exchanges are available for eligible products where customers wish to receive a replacement of a different size, color, or variant.
+
+2. EXCHANGE ELIGIBILITY
+------------------------
+Exchanges are available for:
+- Apparel and footwear: Size or color exchanges within 15 days of delivery.
+- Electronics: Same model exchange if the received unit is defective (within 7 days).
+- Home goods: Exchange for different variants within 10 days.
+
+Exchanges are not available for:
+- Products listed as "Non-Exchangeable" on the product page.
+- Items showing signs of use or damage by the customer.
+- Products that are part of flash sale or clearance promotions.
+
+3. HOW TO REQUEST AN EXCHANGE
+------------------------------
+1. Go to My Orders and select the order.
+2. Click "Exchange Item" and select your reason.
+3. Choose the new size, color, or variant from the available options.
+4. Schedule reverse pickup. The original item is collected and the replacement dispatched simultaneously where possible.
+
+4. EXCHANGE TIMELINE
+---------------------
+- Reverse pickup: 2–3 business days.
+- QC of returned item: 1–2 business days.
+- Dispatch of exchange item: Within 24 hours of QC clearance.
+- Delivery of exchange item: Standard delivery timelines apply.
+
+Total exchange turnaround: 7–10 business days.
+
+5. PRICE DIFFERENCE
+--------------------
+- If the exchange item costs more than the original, the customer pays the difference.
+- If the exchange item costs less, the difference is credited to the Cartly Wallet.
+
+6. EXCHANGE LIMIT
+-----------------
+Each product can be exchanged only once. If the exchanged item also has an issue, a return and refund will be processed instead.
+
+7. SELLER EXCHANGE POLICIES
+-----------------------------
+Third-party sellers may have different exchange windows. Always check the product page for seller-specific exchange terms. Cartly's standard policy acts as a minimum guarantee.
+
+8. CONTACT
+----------
+Email: exchanges@cartly.in
+Phone: 1800-CARTLY-9 (Mon–Sat, 9 AM – 6 PM IST)

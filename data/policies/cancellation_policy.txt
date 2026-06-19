@@ -1,0 +1,57 @@
+CARTLY E-COMMERCE PLATFORM — CANCELLATION POLICY
+=================================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Customers may cancel orders placed on Cartly subject to the conditions outlined in this policy. Cancellations are time-sensitive, and the ability to cancel depends on the order's processing status.
+
+2. CANCELLATION WINDOW
+-----------------------
+Orders can be cancelled free of charge within 1 hour of placement, regardless of payment method. After 1 hour:
+- Orders still in "Processing" status: Can be cancelled, but a ₹20 cancellation convenience fee may apply.
+- Orders in "Packed" or "Shipped" status: Cannot be directly cancelled. Customers must wait for delivery and then initiate a return.
+
+3. HOW TO CANCEL
+----------------
+1. Go to "My Orders" in your Cartly account.
+2. Select the order you wish to cancel.
+3. Click "Cancel Order."
+4. Select a cancellation reason from the dropdown.
+5. Confirm the cancellation.
+
+You will receive an email confirmation of the cancellation within 15 minutes.
+
+4. REFUND AFTER CANCELLATION
+------------------------------
+- Prepaid orders (card/UPI/wallet): Refund issued to the original payment method within 3–5 business days.
+- COD orders: No refund applicable as payment was not made.
+- Wallet orders: Instant refund to the Cartly Wallet.
+
+5. SELLER-INITIATED CANCELLATIONS
+-----------------------------------
+Occasionally, sellers may cancel your order due to stock unavailability or pricing errors. In such cases:
+- You will be notified immediately via email and SMS.
+- A full refund is processed automatically within 24 hours.
+- Cartly may offer a substitute product suggestion or a discount coupon as compensation.
+
+6. PARTIAL CANCELLATION
+------------------------
+For multi-item orders, individual items can be cancelled without affecting the rest of the order. The refund applies only to the cancelled item(s).
+
+7. SUBSCRIPTION CANCELLATION
+------------------------------
+For Cartly Plus subscriptions, refer to the Subscription Policy for dedicated cancellation procedures.
+
+8. NON-CANCELLABLE ORDERS
+--------------------------
+The following cannot be cancelled post-placement:
+- Flash sale items once payment is confirmed.
+- Custom or personalized orders once production has begun.
+- Digital goods once download links are issued.
+
+9. CONTACT
+----------
+Email: cancellations@cartly.in
+Phone: 1800-CARTLY-5 (Mon–Sat, 9 AM – 6 PM IST)

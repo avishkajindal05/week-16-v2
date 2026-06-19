@@ -1,0 +1,47 @@
+CARTLY E-COMMERCE PLATFORM — GIFT CARD POLICY
+==============================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly Gift Cards are prepaid instruments that can be used to shop on the Cartly platform. This policy covers purchase, redemption, validity, and restrictions applicable to Cartly Gift Cards.
+
+2. PURCHASING GIFT CARDS
+-------------------------
+Gift cards are available in denominations of ₹250, ₹500, ₹1,000, ₹2,000, and ₹5,000. They can be purchased directly from the Gift Cards section or as part of a product listing. Gift cards may be gifted digitally via email or SMS to any valid recipient.
+
+3. REDEMPTION
+-------------
+To redeem a gift card:
+1. Add items to cart and proceed to checkout.
+2. Under "Payment," select "Gift Card / Promo Code."
+3. Enter the 16-digit gift card code and click "Apply."
+4. The balance will be deducted from the order total.
+
+Multiple gift cards can be applied to a single order. The remaining balance after a purchase is retained on the card for future use.
+
+4. VALIDITY
+-----------
+Cartly Gift Cards are valid for 12 months from the date of purchase. Unused balances expire after the validity period and cannot be restored. Validity cannot be extended under any circumstances.
+
+5. NON-TRANSFERABLE
+-------------------
+Gift cards are non-transferable once activated. They cannot be resold, exchanged for cash, or used outside the Cartly platform.
+
+6. LOSS OR THEFT
+-----------------
+Cartly is not responsible for lost or stolen gift cards or codes. Treat gift card codes like cash. If a code is compromised, contact support immediately; recovery is at Cartly's discretion.
+
+7. RETURNS INVOLVING GIFT CARDS
+---------------------------------
+If an order paid using a gift card is returned, the refund is credited back to a new gift card of equivalent value, not to cash or the original payment method.
+
+8. CORPORATE GIFT CARDS
+------------------------
+Bulk gift card purchases for corporate gifting are available at a discount for orders above ₹50,000. Contact corporate@cartly.in for bulk pricing.
+
+9. CONTACT
+----------
+Email: giftcards@cartly.in
+Phone: 1800-CARTLY-7 (Mon–Sat, 9 AM – 6 PM IST)

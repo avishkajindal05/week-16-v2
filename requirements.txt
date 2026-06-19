@@ -1,0 +1,46 @@
+# ------------------------
+# Core RAG
+# ------------------------
+chromadb==0.5.3
+
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-openai==0.1.25
+
+sentence-transformers==3.0.1
+# NOTE: sentence-transformers pulls in full GPU-enabled torch by default (~3-4GB download).
+# If you don't have a GPU (most laptops/Colab-free don't), install CPU-only torch FIRST:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# then run `pip install -r requirements.txt` — pip will see torch is already satisfied.
+
+# ------------------------
+# LLM
+# ------------------------
+openai>=1.30.0
+
+# ------------------------
+# Evaluation
+# ------------------------
+ragas==0.2.15
+datasets==2.20.0
+langchain-huggingface==0.0.3   # required by eval/evaluate.py (HuggingFaceEmbeddings) — was missing entirely
+
+# ------------------------
+# Observability
+# ------------------------
+langfuse==2.36.1
+
+# ------------------------
+# Backend
+# ------------------------
+fastapi==0.111.1
+uvicorn[standard]==0.30.5
+pydantic==2.8.2
+
+# ------------------------
+# Utilities
+# ------------------------
+python-dotenv==1.0.1
+pandas==2.2.2
+tqdm==4.66.4
+rich==13.7.1

@@ -1,0 +1,53 @@
+CARTLY E-COMMERCE PLATFORM — PRIVACY POLICY
+============================================
+
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Cartly respects the privacy of its users. This Privacy Policy describes how Cartly collects, uses, shares, and protects your personal information in compliance with the Digital Personal Data Protection Act (DPDPA), 2023.
+
+2. DATA COLLECTED
+-----------------
+Cartly collects the following types of data:
+- Identity Data: Name, mobile number, email address, date of birth.
+- Address Data: Delivery addresses, pin code, city, state.
+- Payment Data: Tokenized card details, UPI IDs (no raw card numbers are stored).
+- Behavioral Data: Browsing history, search queries, product views, wish lists.
+- Device Data: IP address, device type, operating system, browser type.
+
+3. HOW WE USE YOUR DATA
+------------------------
+Your data is used for:
+- Processing and delivering orders.
+- Sending order confirmations, shipping updates, and delivery notifications.
+- Personalizing product recommendations and offers.
+- Fraud detection and account security.
+- Legal compliance and dispute resolution.
+
+4. DATA SHARING
+---------------
+Cartly does not sell personal data. Data may be shared with:
+- Logistics partners (for delivery processing).
+- Payment gateways (for transaction processing).
+- Legal authorities (when required by law).
+
+5. DATA RETENTION
+-----------------
+Personal data is retained for as long as the account is active and for up to 5 years post-account deletion for legal compliance. Transaction records are retained for 7 years per Indian accounting standards.
+
+6. YOUR RIGHTS
+--------------
+Under DPDPA 2023, you have the right to:
+- Access your personal data.
+- Correct inaccurate data.
+- Request deletion of your data.
+- Withdraw consent for non-essential processing.
+
+7. COOKIES
+----------
+Cartly uses cookies for session management, personalization, and analytics. Cookie preferences can be managed in browser settings or via the Cartly Cookie Preferences panel.
+
+8. CONTACT
+----------
+Data Protection Officer: privacy@cartly.in
